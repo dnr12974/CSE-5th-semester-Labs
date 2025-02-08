@@ -1,6 +1,6 @@
 # 5th Semester Lab Codes 📚
 
-This repository contains Advanced Java lab materials, including a question bank, MySQL connection JAR file, and all the executed codes from the lab sessions.
+This repository contains Advanced Java lab materials, including a question bank, MySQL connection JAR file, and all the executed codes from the lab sessions.All these codes are tried and tested and used by me.All are 100% working and satisfies the question's requirements.This repo(In Advance Java Labs folder) also consists of study materials which can be refered for viva.
 
 ## 📌 Contents
 - 🔹 **Question Bank** – A collection of important questions for lab preparation.  
