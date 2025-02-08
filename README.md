@@ -8,6 +8,7 @@ This repository contains Advanced Java lab materials, including a question bank,
  🔹 **Executed Codes** – All Java programs implemented and tested in the lab.
  
  🔹 **Study materials for viva** – All Study materials needed to ace viva and to understand the concept in detail.
+ 🔹 **General Procedure** – General Procedure required for execution of these codes.
 
 ## 🛠 Requirements
 - **Eclipse IDE** (for writing and running Java programs)  
