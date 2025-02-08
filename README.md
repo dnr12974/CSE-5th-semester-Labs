@@ -3,9 +3,11 @@
 This repository contains Advanced Java lab materials, including a question bank, MySQL connection JAR file, and all the executed codes from the lab sessions.All these codes are tried and tested and used by me.All are 100% working and satisfies the question's requirements.This repo(In Advance Java Labs folder) also consists of study materials which can be refered for viva.
 
 ## 📌 Contents
-- 🔹 **Question Bank** – A collection of important questions for lab preparation.  
-- 🔹 **MySQL Connection JAR** – Required for database connectivity in Java projects.  
-- 🔹 **Executed Codes** – All Java programs implemented and tested in the lab.  
+ 🔹 **Question Bank** – A collection of important questions for lab preparation.  
+ 🔹 **MySQL Connection JAR** – Required for database connectivity in Java projects.  
+ 🔹 **Executed Codes** – All Java programs implemented and tested in the lab.
+ 
+ 🔹 **Study materials for viva** – All Study materials needed to ace viva and to understand the concept in detail.
 
 ## 🛠 Requirements
 - **Eclipse IDE** (for writing and running Java programs)  
